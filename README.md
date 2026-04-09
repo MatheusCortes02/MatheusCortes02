@@ -11,17 +11,8 @@
 
 ---
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCortes02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortes02&layout=compact&theme=radical&hide_langs_below=1" />
-      </td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCortes02&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusCortes02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortes02&layout=compact&theme=tokyonight" />
 </div>
 ---
 
