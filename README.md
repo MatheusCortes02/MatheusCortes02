@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=~/dev-to-security+%24;Matheus+Cortes;Estudando+e+evoluindo+a+cada+linha)](https://git.io/typing-svg)
+<h1>Matheus Cortes</h1>
+<p><code>~/security-researcher $</code></p>
+<p>Estudando e evoluindo a cada linha de código</p>
 
 </div>
 
