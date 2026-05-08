@@ -1,33 +1,5 @@
 <div align="center">
-
-```
-   $$$$$$\  
-  $$  __$$\ 
-  $$ /  \__|
-  \$$$$$$\  
-   \____$$\ 
-  $$\   $$ |
-  \$$$$$$  |
-   \______/ 
-```
-
-### matheus@cortes
-`---------------------------------`
-
-| | |
-|---|---|
-| **SO** | Windows / Linux |
-| **Curso** | Ciência da Computação |
-| **Objetivo** | Cyber Security |
-| **IDE** | VSCode |
-| **Linguagens.Prog** | Python, JS, C++, Java, C |
-| **Linguagens.Web** | HTML, CSS, Bootstrap |
-| **Backend** | FastAPI |
-| **Frontend** | React |
-| **Banco de Dados** | PostgreSQL |
-| **Ferramentas** | Git, SQLAlchemy |
-| **GitHub** | MatheusCortes02 |
-
+  <img src="neofetch.svg" alt="neofetch" />
 </div>
 
 ---
