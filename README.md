@@ -1,22 +1,38 @@
 <div align="center">
 
-<h1>Matheus Cortes</h1>
-<p><code>~/security-researcher $</code></p>
-<p>Estudando e evoluindo a cada linha de código</p>
+```
+   $$$$$$\  
+  $$  __$$\ 
+  $$ /  \__|
+  \$$$$$$\  
+   \____$$\ 
+  $$\   $$ |
+  \$$$$$$  |
+   \______/ 
+```
+
+### matheus@cortes
+`---------------------------------`
+
+| | |
+|---|---|
+| **SO** | Windows / Linux |
+| **Curso** | Ciência da Computação |
+| **Objetivo** | Cyber Security |
+| **IDE** | VSCode |
+| **Linguagens.Prog** | Python, JS, C++, Java, C |
+| **Linguagens.Web** | HTML, CSS, Bootstrap |
+| **Backend** | FastAPI |
+| **Frontend** | React |
+| **Banco de Dados** | PostgreSQL |
+| **Ferramentas** | Git, SQLAlchemy |
+| **GitHub** | MatheusCortes02 |
 
 </div>
 
 ---
 
-## SOBRE MIM
-
-- 🎓 Cursando **Ciência da Computação**
-- 🎯 Foco e objetivo: **Cyber Security**
-- 🔍 Aprimorando conhecimentos em **backend** e **arquitetura de sistemas** para proteger aplicações de ponta a ponta
-
----
-
-## STATS
+## `$ github --stats`
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusCortes02&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=8b949e&include_all_commits=true"/>
@@ -25,7 +41,7 @@
 
 ---
 
-## STACKS
+## `$ cat stacks.txt`
 
 ### 🌐 Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4ade80)
@@ -45,3 +61,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=67e8f9)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=fca5a5)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=fb923c)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatheusCortes02&color=4ade80&style=flat-square&label=visitas" />
+</div>
