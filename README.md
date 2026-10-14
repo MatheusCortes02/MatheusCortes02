@@ -1,4 +1,4 @@
-<h2><img src="https://api.iconify.design/mdi/account-circle.svg?color=%2339d353" height="24" align="middle" />&nbsp; About Me</h2>
+## 🟢 About Me
 
 Meu nome é **Matheus Cortes**, tenho 18 anos e sou estudante de **Engenharia de Software** (2º período).
 
@@ -6,12 +6,12 @@ Sempre tive grande interesse por tecnologia e curiosidade em entender como as co
 
 > Desenvolvedor Front-End | React & Next.js | Python | Estudante de Cybersecurity (Red Team)
 
-<h2><img src="https://api.iconify.design/mdi/web.svg?color=%2339d353" height="24" align="middle" />&nbsp; Socials</h2>
+## 🟢 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/matheuscortes-cyber/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/MatheusCortes02)
 
-<h2><img src="https://api.iconify.design/mdi/code-tags.svg?color=%2339d353" height="24" align="middle" />&nbsp; Tech Stack</h2>
+## 🟢 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39D353)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39D353)
