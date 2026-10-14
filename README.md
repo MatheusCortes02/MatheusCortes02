@@ -1,45 +1,29 @@
-# Matheus Cortes
+## 👋 About Me
 
-### Estudando e evoluindo a cada linha de código.
+Meu nome é **Matheus Cortes**, tenho 18 anos e sou estudante de **Engenharia de Software** (2º período).
 
----
+Sempre tive grande interesse por tecnologia e curiosidade em entender como as coisas funcionam por trás do que usamos no dia a dia. Busco constantemente evoluir meus conhecimentos, fortalecer meu raciocínio lógico e desenvolver habilidades que me permitam criar soluções eficientes — acreditando que **dedicação, disciplina e aprendizado contínuo** são essenciais para construir uma carreira sólida na área de tecnologia.
 
-##  Sobre Mim
--  Atualmente cursando **Ciência da Computação**.
--  Meu foco e objetivo principal é atuar na área de **Cyber Security**.
--  Estou constantemente aprimorando meus conhecimentos em desenvolvimento backend e arquitetura de sistemas para entender como proteger aplicações de ponta a ponta.
+> Desenvolvedor Front-End | React & Next.js | Python | Estudante de Cybersecurity (Red Team)
 
----
-<div align="center">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusCortes02&show_icons=true&theme=algolia&include_all_commits=true" />
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusCortes02&layout=compact&theme=algolia" />
-</div>
----
+## 🌐 Socials
 
-## Stacks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscortes-cyber/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusCortes02)
 
-### 🌐 Languages
+## 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 💻 Frontend
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusCortes02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCortes02&layout=compact&theme=algolia&custom_title=My%20Programming%20Languages" />
+</div>
 
-### 🔧 Tools
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<p align="center">
+  <img src="banner.jpg" alt="" width="100%" />
+</p>
 
-### 🚀 DevOps & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
----
