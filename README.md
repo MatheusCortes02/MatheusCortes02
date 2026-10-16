@@ -8,10 +8,10 @@ Sempre tive grande interesse por tecnologia e curiosidade em entender como as co
 
 ## 🟢 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/matheuscortes-cyber/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/MatheusCortes02)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=39D353)](https://tryhackme.com/p/MatheusCortes02)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39D353)](https://leetcode.com/u/VZrlA6VpFT/)
+[![LinkedIn](https:&&img.shields.io&badge&LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353)](https:&&www.linkedin.com&in&matheuscortes-cyber&)
 
 ## 🟢 Tech Stack
 
